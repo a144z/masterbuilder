@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1771272797047
+    },
+    "playwright-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1771273147999
+    }
+  }
+}
