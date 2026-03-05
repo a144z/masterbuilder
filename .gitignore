@@ -1,0 +1,15 @@
+# Memory files
+memory/
+
+# OpenClaw workspace state
+.openclaw/workspace-state.json
+
+# ClawHub lock
+.clawhub/lock.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
